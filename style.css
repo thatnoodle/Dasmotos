@@ -1,0 +1,42 @@
+@charset "UTF-8";
+h1 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    color: pink;
+    background-image: url(pattern.jpg);
+}
+body h1 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body h2 {
+}
+.subheading {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    background-color: MediumSpringGreen;
+}
+body h3 {
+}
+body h3 {
+}
+body h3 {
+}
+body h3 {
+}
+.subheading2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    background-color: LightCoral;
+}
+.subheading3 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    background-color: SkyBlue;
+}
+body {
+    border: 12px solid #FBE524;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
